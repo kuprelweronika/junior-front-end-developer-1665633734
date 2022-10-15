@@ -1,0 +1,5 @@
+.openMessageWrapper {
+  margin: 8px;
+  box-shadow: 0px 8px 16px rgba(84, 84, 84, 0.2);
+  border-radius: 10px 10px 10px 10px;
+}

@@ -1,0 +1,8 @@
+.SmallText {
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--text-grey);
+}

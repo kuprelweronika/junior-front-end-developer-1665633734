@@ -1,0 +1,7 @@
+.messageBarContainer {
+  background-color: var(--background-grey);
+  height: 99.5%;
+  width: 30vw;
+  margin-left: 4px;
+  border-radius: 0px 0px 0px 12px;
+}

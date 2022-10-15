@@ -1,0 +1,22 @@
+.HeaderSection {
+  text-transform: uppercase;
+  display: flex;
+  padding: 16px;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.BusinessContextContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.contextContainer {
+  display: flex;
+  height: 613px;
+}
+
+.placeholder {
+  width: 100%;
+}
