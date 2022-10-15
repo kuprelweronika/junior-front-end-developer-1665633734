@@ -1,0 +1,8 @@
+.TaskListContainer {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 0px;
+  flex-wrap: nowrap;
+  overflow-y: scroll;
+}

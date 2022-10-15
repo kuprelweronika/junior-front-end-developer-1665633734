@@ -1,0 +1,23 @@
+.messageContainer {
+  padding: 16px;
+}
+
+.messageWrapper {
+  margin: 8px;
+}
+.titleContainer {
+  padding-bottom: 8px;
+}
+
+.messageHeader {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 11px;
+}
+.textMessageHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}

@@ -1,0 +1,6 @@
+.CardSquaredTop {
+  bottom: 4%;
+  background-color: var(--background-white);
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 12px 12px;
+}
